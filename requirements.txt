@@ -1,0 +1,13 @@
+# Core
+python-dotenv
+requests
+
+# Google Sheets (Service Account auth)
+gspread
+google-auth
+
+# AI / Email generation
+anthropic
+
+# Data processing
+pandas
